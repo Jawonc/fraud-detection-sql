@@ -1,5 +1,6 @@
 # Fraud Detection SQL Project
-## Overview
+
+# Overview
 This project focuses on fraud detection using SQL queries. It includes transaction datasets and analytical queries to identify suspicious activities.
 
 ## Features
@@ -27,3 +28,7 @@ This project is licensed under the MIT License.
 This project includes a Power BI dashboard that visualizes fraud detection trends.
 
 **🔗 Download the Power BI file:** [Click Here](https://drive.google.com/file/d/1D3KMqZ9m3F4t6lgv8imLFgoaAnGXAaDo/view?usp=sharing)
+=======
+# Fraud Detection SQL Project
+This project contains SQL queries and datasets for fraud detection analysis.
+>>>>>>> documentation
