@@ -18,10 +18,6 @@ Clone this repository and run the SQL queries using your preferred database mana
 ```sql
 SELECT * FROM transactions WHERE is_fraud = TRUE;
 ```
-
-## Contributing
-Feel free to submit issues or pull requests if you find any bugs or improvements!
-
 ## License
 This project is licensed under the MIT License.
 ## 📊 Power BI Dashboard
