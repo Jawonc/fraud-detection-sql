@@ -1,4 +1,4 @@
-# Fraud Detection SQL Project
+# Fraud Detection SQL Project! 
 
 # Overview
 This project focuses on fraud detection using SQL queries. It includes transaction datasets and analytical queries to identify suspicious activities.
