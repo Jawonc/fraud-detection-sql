@@ -23,3 +23,7 @@ Feel free to submit issues or pull requests if you find any bugs or improvements
 
 ## License
 This project is licensed under the MIT License.
+## 📊 Power BI Dashboard
+This project includes a Power BI dashboard that visualizes fraud detection trends.
+
+**🔗 Download the Power BI file:** [Click Here](https://drive.google.com/file/d/1D3KMqZ9m3F4t6lgv8imLFgoaAnGXAaDo/view?usp=sharing)
